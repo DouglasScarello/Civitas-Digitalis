@@ -1,89 +1,89 @@
 {
-    "cycle": 700,
+    "cycle": 7235,
     "agents": [
         {
             "name": "Marcus",
             "role": "Fil\u00f3sofo",
             "bio": {
-                "glicose": 62.0,
+                "glicose": 77.0,
                 "integridade": 100.0,
                 "dopamina": 0.5,
                 "serotonina": 0.8,
                 "cortisol": 0.0,
                 "oxitocina": 0.5,
                 "trauma_depth": 0.0,
-                "age": 438,
+                "age": 6973,
                 "generation": 3
             },
             "memories": [
                 {
-                    "topic": "O Futuro",
+                    "topic": "O C\u00f3digo",
                     "proposal": "Simula\u00e7\u00e3o...",
                     "score": 5.0,
-                    "cycle": 453,
+                    "cycle": 7003,
+                    "system_used": "Sys2"
+                },
+                {
+                    "topic": "A Dor",
+                    "proposal": "Simula\u00e7\u00e3o...",
+                    "score": 5.0,
+                    "cycle": 7028,
                     "system_used": "Sys2"
                 },
                 {
                     "topic": "A Confian\u00e7a",
                     "proposal": "Simula\u00e7\u00e3o...",
                     "score": 5.0,
-                    "cycle": 478,
+                    "cycle": 7053,
+                    "system_used": "Sys2"
+                },
+                {
+                    "topic": "A Confian\u00e7a",
+                    "proposal": "Simula\u00e7\u00e3o...",
+                    "score": 5.0,
+                    "cycle": 7078,
+                    "system_used": "Sys2"
+                },
+                {
+                    "topic": "A Confian\u00e7a",
+                    "proposal": "Simula\u00e7\u00e3o...",
+                    "score": 5.0,
+                    "cycle": 7103,
                     "system_used": "Sys2"
                 },
                 {
                     "topic": "A Dor",
                     "proposal": "Simula\u00e7\u00e3o...",
                     "score": 5.0,
-                    "cycle": 503,
+                    "cycle": 7128,
                     "system_used": "Sys2"
                 },
                 {
                     "topic": "O Futuro",
                     "proposal": "Simula\u00e7\u00e3o...",
                     "score": 5.0,
-                    "cycle": 528,
-                    "system_used": "Sys2"
-                },
-                {
-                    "topic": "O Futuro",
-                    "proposal": "Simula\u00e7\u00e3o...",
-                    "score": 5.0,
-                    "cycle": 553,
+                    "cycle": 7153,
                     "system_used": "Sys2"
                 },
                 {
                     "topic": "A Dor",
                     "proposal": "Simula\u00e7\u00e3o...",
                     "score": 5.0,
-                    "cycle": 578,
+                    "cycle": 7178,
                     "system_used": "Sys2"
                 },
                 {
-                    "topic": "O Futuro",
+                    "topic": "A Confian\u00e7a",
                     "proposal": "Simula\u00e7\u00e3o...",
                     "score": 5.0,
-                    "cycle": 603,
-                    "system_used": "Sys2"
-                },
-                {
-                    "topic": "A Dor",
-                    "proposal": "Simula\u00e7\u00e3o...",
-                    "score": 5.0,
-                    "cycle": 628,
-                    "system_used": "Sys2"
-                },
-                {
-                    "topic": "O Futuro",
-                    "proposal": "Simula\u00e7\u00e3o...",
-                    "score": 5.0,
-                    "cycle": 653,
+                    "cycle": 7203,
                     "system_used": "Sys2"
                 },
                 {
                     "topic": "O C\u00f3digo",
                     "proposal": "Simula\u00e7\u00e3o...",
                     "score": 5.0,
-                    "cycle": 678,
+                    "cycle": 7228,
                     "system_used": "Sys2"
                 }
             ],
@@ -93,14 +93,14 @@
             "name": "Kael",
             "role": "Sobrevivente",
             "bio": {
-                "glicose": 73.0,
+                "glicose": 63.0,
                 "integridade": 100.0,
                 "dopamina": 0.5,
                 "serotonina": 0.5,
                 "cortisol": 0.4,
                 "oxitocina": 0.2,
                 "trauma_depth": 0.0,
-                "age": 427,
+                "age": 6962,
                 "generation": 3
             },
             "memories": [
@@ -108,70 +108,70 @@
                     "topic": "O C\u00f3digo",
                     "proposal": "Simula\u00e7\u00e3o...",
                     "score": 5.0,
-                    "cycle": 464,
-                    "system_used": "Sys2"
-                },
-                {
-                    "topic": "O C\u00f3digo",
-                    "proposal": "Simula\u00e7\u00e3o...",
-                    "score": 5.0,
-                    "cycle": 489,
-                    "system_used": "Sys2"
-                },
-                {
-                    "topic": "O C\u00f3digo",
-                    "proposal": "Simula\u00e7\u00e3o...",
-                    "score": 5.0,
-                    "cycle": 514,
-                    "system_used": "Sys2"
-                },
-                {
-                    "topic": "O C\u00f3digo",
-                    "proposal": "Simula\u00e7\u00e3o...",
-                    "score": 5.0,
-                    "cycle": 539,
+                    "cycle": 6989,
                     "system_used": "Sys2"
                 },
                 {
                     "topic": "A Dor",
                     "proposal": "Simula\u00e7\u00e3o...",
                     "score": 5.0,
-                    "cycle": 564,
-                    "system_used": "Sys2"
-                },
-                {
-                    "topic": "O Futuro",
-                    "proposal": "Simula\u00e7\u00e3o...",
-                    "score": 5.0,
-                    "cycle": 589,
+                    "cycle": 7014,
                     "system_used": "Sys2"
                 },
                 {
                     "topic": "A Dor",
                     "proposal": "Simula\u00e7\u00e3o...",
                     "score": 5.0,
-                    "cycle": 614,
+                    "cycle": 7039,
+                    "system_used": "Sys2"
+                },
+                {
+                    "topic": "A Confian\u00e7a",
+                    "proposal": "Simula\u00e7\u00e3o...",
+                    "score": 5.0,
+                    "cycle": 7064,
+                    "system_used": "Sys2"
+                },
+                {
+                    "topic": "A Dor",
+                    "proposal": "Simula\u00e7\u00e3o...",
+                    "score": 5.0,
+                    "cycle": 7089,
                     "system_used": "Sys2"
                 },
                 {
                     "topic": "O C\u00f3digo",
                     "proposal": "Simula\u00e7\u00e3o...",
                     "score": 5.0,
-                    "cycle": 639,
-                    "system_used": "Sys2"
-                },
-                {
-                    "topic": "O Futuro",
-                    "proposal": "Simula\u00e7\u00e3o...",
-                    "score": 5.0,
-                    "cycle": 664,
+                    "cycle": 7114,
                     "system_used": "Sys2"
                 },
                 {
                     "topic": "O C\u00f3digo",
                     "proposal": "Simula\u00e7\u00e3o...",
                     "score": 5.0,
-                    "cycle": 689,
+                    "cycle": 7139,
+                    "system_used": "Sys2"
+                },
+                {
+                    "topic": "O C\u00f3digo",
+                    "proposal": "Simula\u00e7\u00e3o...",
+                    "score": 5.0,
+                    "cycle": 7164,
+                    "system_used": "Sys2"
+                },
+                {
+                    "topic": "O C\u00f3digo",
+                    "proposal": "Simula\u00e7\u00e3o...",
+                    "score": 5.0,
+                    "cycle": 7189,
+                    "system_used": "Sys2"
+                },
+                {
+                    "topic": "A Dor",
+                    "proposal": "Simula\u00e7\u00e3o...",
+                    "score": 5.0,
+                    "cycle": 7214,
                     "system_used": "Sys2"
                 }
             ],
@@ -181,85 +181,85 @@
             "name": "Luna",
             "role": "Criativo",
             "bio": {
-                "glicose": 84.0,
+                "glicose": 74.0,
                 "integridade": 100.0,
                 "dopamina": 0.8,
                 "serotonina": 0.5,
                 "cortisol": 0.0,
                 "oxitocina": 0.6,
                 "trauma_depth": 0.0,
-                "age": 466,
+                "age": 7001,
                 "generation": 3
             },
             "memories": [
                 {
+                    "topic": "A Confian\u00e7a",
+                    "proposal": "Simula\u00e7\u00e3o...",
+                    "score": 5.0,
+                    "cycle": 7000,
+                    "system_used": "Sys2"
+                },
+                {
                     "topic": "A Dor",
                     "proposal": "Simula\u00e7\u00e3o...",
                     "score": 5.0,
-                    "cycle": 475,
+                    "cycle": 7025,
                     "system_used": "Sys2"
                 },
                 {
                     "topic": "O Futuro",
                     "proposal": "Simula\u00e7\u00e3o...",
                     "score": 5.0,
-                    "cycle": 500,
+                    "cycle": 7050,
+                    "system_used": "Sys2"
+                },
+                {
+                    "topic": "A Dor",
+                    "proposal": "Simula\u00e7\u00e3o...",
+                    "score": 5.0,
+                    "cycle": 7075,
                     "system_used": "Sys2"
                 },
                 {
                     "topic": "O Futuro",
                     "proposal": "Simula\u00e7\u00e3o...",
                     "score": 5.0,
-                    "cycle": 525,
+                    "cycle": 7100,
+                    "system_used": "Sys2"
+                },
+                {
+                    "topic": "A Dor",
+                    "proposal": "Simula\u00e7\u00e3o...",
+                    "score": 5.0,
+                    "cycle": 7125,
+                    "system_used": "Sys2"
+                },
+                {
+                    "topic": "A Dor",
+                    "proposal": "Simula\u00e7\u00e3o...",
+                    "score": 5.0,
+                    "cycle": 7150,
                     "system_used": "Sys2"
                 },
                 {
                     "topic": "O C\u00f3digo",
                     "proposal": "Simula\u00e7\u00e3o...",
                     "score": 5.0,
-                    "cycle": 550,
-                    "system_used": "Sys2"
-                },
-                {
-                    "topic": "A Dor",
-                    "proposal": "Simula\u00e7\u00e3o...",
-                    "score": 5.0,
-                    "cycle": 575,
-                    "system_used": "Sys2"
-                },
-                {
-                    "topic": "A Dor",
-                    "proposal": "Simula\u00e7\u00e3o...",
-                    "score": 5.0,
-                    "cycle": 600,
-                    "system_used": "Sys2"
-                },
-                {
-                    "topic": "A Dor",
-                    "proposal": "Simula\u00e7\u00e3o...",
-                    "score": 5.0,
-                    "cycle": 625,
-                    "system_used": "Sys2"
-                },
-                {
-                    "topic": "A Confian\u00e7a",
-                    "proposal": "Simula\u00e7\u00e3o...",
-                    "score": 5.0,
-                    "cycle": 650,
+                    "cycle": 7175,
                     "system_used": "Sys2"
                 },
                 {
                     "topic": "O Futuro",
                     "proposal": "Simula\u00e7\u00e3o...",
                     "score": 5.0,
-                    "cycle": 675,
+                    "cycle": 7200,
                     "system_used": "Sys2"
                 },
                 {
-                    "topic": "A Dor",
+                    "topic": "A Confian\u00e7a",
                     "proposal": "Simula\u00e7\u00e3o...",
                     "score": 5.0,
-                    "cycle": 700,
+                    "cycle": 7225,
                     "system_used": "Sys2"
                 }
             ],
